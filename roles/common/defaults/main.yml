@@ -1,0 +1,9 @@
+---
+users:
+  nick2day:
+    pubkey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDh12GIZ/ZbNXV7sKTZqMzeauLNHmdXDMEg5z8Hz9DZVyoPrkpSXtCdRfPKUqLlxxZeq8BNZEplEblBEOcqDNtEYhedW2cGbjunpazzPWxQOs1GnHrwBRIe8uiv7xZxVMd7dejYh81ZPquyBLEHFBL1cyOgp1HQGqRsVwiyxsQ52bPxTeMDNU+x+KxMEVDUqJCAlrEbg2UWv7p7YO1nK2yb2fb/yPMJRuy7KFEJqohL9iqjc+F14GDyKjKXZjjYfvk3il9Y3O1YuwnQR8I6xc/9xcGtlu+wkk/HFxU5hRH/X/JPQwgSejf/3kXsp0kFsOyYhctK2JB4Q8xFsnSokUax nick2day@archbox.doubleday.haus'
+    groups: txlf-staff
+
+  ilan:
+    pubkey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDh12GIZ/ZbNXV7sKTZqMzeauLNHmdXDMEg5z8Hz9DZVyoPrkpSXtCdRfPKUqLlxxZeq8BNZEplEblBEOcqDNtEYhedW2cGbjunpazzPWxQOs1GnHrwBRIe8uiv7xZxVMd7dejYh81ZPquyBLEHFBL1cyOgp1HQGqRsVwiyxsQ52bPxTeMDNU+x+KxMEVDUqJCAlrEbg2UWv7p7YO1nK2yb2fb/yPMJRuy7KFEJqohL9iqjc+F14GDyKjKXZjjYfvk3il9Y3O1YuwnQR8I6xc/9xcGtlu+wkk/HFxU5hRH/X/JPQwgSejf/3kXsp0kFsOyYhctK2JB4Q8xFsnSokUax nick2day@archbox.doubleday.haus'
+    groups: txlf-staff
