@@ -1,0 +1,11 @@
+---
+# tasks file for nginx
+- name: Installing Nginx
+  yum:  name=nginx state=present
+
+- name: Opening Ports
+  firewalld: service={{ item }} permanent=true state=enabled
+  with_items:
+    - http
+    - https
+  notify: Restart Nginx

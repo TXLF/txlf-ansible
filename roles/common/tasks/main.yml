@@ -16,5 +16,5 @@
   lineinfile:  "dest=/etc/sudoers state=present regexp='^%txlf-staff' line='%txlf-staff ALL=(ALL) NOPASSWD: ALL'"
 
 - name:  Installing Git Client
-  yum: name=git state=present
+  yum: name=git state=present update_cache=yes
 
